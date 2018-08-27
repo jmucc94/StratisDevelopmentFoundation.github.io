@@ -25,6 +25,7 @@ This article will show you how to set up a block explorer for the Stratis blockc
 
 # Remaining tasks to complete this article
 
+*Implement XRP for payments within Stratis Dapps. 
 * Probably will have to communicate with Stratis official devs to figure out how to setup the block explorer. Looking at the stratis platform github, we can see there are some block explorer code that might be ready to go, but a quick chat with them should help get you started.
 * Follow existing steps, increase clarity and add more specific steps
 * Add screenshots
